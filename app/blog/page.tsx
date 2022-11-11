@@ -1,14 +1,13 @@
-import styles from './page.module.css'
 import Image from 'next/image'
-import profilePic from '../public/profile.jpg';
-import Link from 'next/link';
+import profilePic from '#/public/profile.jpg';
 
-export default function Home() {
+
+export default function BlogPage() {
   return (
     <div className="bg-gray-800">
       <div className="mx-auto max-w-7xl py-16 px-4 sm:py-24 sm:px-6 lg:flex lg:justify-between lg:px-8">
         <div className="max-w-xl">
-          <h2 className="text-4xl font-bold tracking-tight text-white sm:text-5xl lg:text-6xl">Home</h2>
+          <h2 className="text-4xl font-bold tracking-tight text-white sm:text-5xl lg:text-6xl">Blog </h2>
           <p className="mt-5 text-xl text-gray-400">
             We are learning tailwindcss. 
           </p>
