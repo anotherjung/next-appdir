@@ -1,6 +1,9 @@
 ## 0
 
-[beta doc](https://beta.nextjs.org/docs/installation)
+Let's learn Next.js 13. [beta doc](https://beta.nextjs.org/docs/installation)
+
+## About
+Notes to myself. I use numbers to track git commits, branchs, and readme.  
 
 ## Install 
 
@@ -23,8 +26,4 @@ When you node version need update. [n node version manager](https://github.com/t
 ```
 
 ## Deploy
-
 [Vercel Projects](https://vercel.com/docs/concepts/projects/overview)
-
-## Questions
-- Does it deploy?
