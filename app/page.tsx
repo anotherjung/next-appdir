@@ -1,7 +1,5 @@
-import styles from './page.module.css'
 import Image from 'next/image'
 import profilePic from '../public/profile.jpg';
-import Link from 'next/link';
 
 export default function Home() {
   return (

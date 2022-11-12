@@ -24,8 +24,8 @@ export default function RootLayout({
         <section>
           <div className='flex space-x-4 p-3'>
           <Link href="/">home</Link>
-        <Link href="blog">blog</Link>
-        <Link href="styling">styling</Link>
+        <Link href="/blog">blog</Link>
+        <Link href="/styling">styling</Link>
         </div>      
         
         </section>
